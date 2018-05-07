@@ -12,4 +12,7 @@ if __name__ == "__main__":
     # point that we invoke the DebugToolbarExtension
     app.debug = True
 
+    # Use the DebugToolbar
+    # DebugToolbarExtension(app)
+
 app.run(host="0.0.0.0")

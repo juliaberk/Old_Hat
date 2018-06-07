@@ -1,6 +1,8 @@
 from server import append
 import unittest
 
+from selenium import webdriver
+
 # class FlaskTests(TestCase):
 #
 #     def setUp(self):
